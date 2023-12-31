@@ -35,9 +35,10 @@ Our vision is to connect the farmer directlty to the customer to reduce the midd
 
 ##Farmer's Query Chat
 <img src="https://github.com/pravinsathishprabu/E-commerce-for-food-products-and-Crop-disease-prediction/assets/64587088/76fea1ba-4aba-4660-8684-1bf21df6e0fe"/>
+
+##AI Model
 <img src="https://github.com/pravinsathishprabu/E-commerce-for-food-products-and-Crop-disease-prediction/assets/64587088/f39f9e02-5513-461f-b066-db958c75d720"/>
 <img src="https://github.com/pravinsathishprabu/E-commerce-for-food-products-and-Crop-disease-prediction/assets/64587088/b5464ec1-5f13-4fb1-98ca-17f3f945d0aa"/>
-
 ![16](https://github.com/pravinsathishprabu/E-commerce-for-food-products-and-Crop-disease-prediction/assets/64587088/a78d719a-7333-49fc-8572-e5038d5f31c6)
 ![15](https://github.com/pravinsathishprabu/E-commerce-for-food-products-and-Crop-disease-prediction/assets/64587088/4997ced4-d91f-4b33-a158-79bebb73f850)
 
